@@ -1,12 +1,12 @@
-{ "name" : "json2json"
+{ "name" : "json2json-openui5"
 , "description" : "A simple way to transform a JSON object to another JSON structure"
-, "version" : "0.2.3"
-, "author" : "Joel Van Horn <joel@joelvanhorn.com>"
+, "version" : "0.0.1"
+, "author" : "Jiawei Cao <stopcoder@gmail.com>"
 , "repository" :
   { "type" : "git"
-  , "url" : "git://github.com/joelvh/json2json.git"
+  , "url" : "git://github.com/stopcoder/json2json.git"
   }
-, "bugs" : { "url" : "https://github.com/joelvh/json2json/issues" }
+, "bugs" : { "url" : "https://github.com/stopcoder/json2json/issues" }
 , "os" : [ "linux", "darwin", "freebsd", "win32", "sunos" ]
 , "directories" : { "lib" : "./lib/" }
 , "main" : "index.js"

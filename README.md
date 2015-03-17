@@ -1,3 +1,7 @@
+# About json2json-openui5
+
+This is developed on top of the [json2json](https://github.com/joelvh/json2json) by adding the feature to return an array of entries from 'format' function. A [pull request](https://github.com/joelvh/json2json/pull/12) is pending on original json2json project. The following documentation is a copy of json2json project which is adapted with the new feature.
+
 # About json2json
 
 Transforms one JSON object structure to another structure as defined by template rules. 
